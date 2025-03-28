@@ -34,7 +34,7 @@ Directorio ['Exámenes'](https://github.com/aleon2020/ADMA_2022-2023/tree/main/E
 
 ## 4. Práctica de Laboratorio
 
-Directorios ['Práctica de Laboratorio'](https://github.com/aleon2020/ADMA_2022-2023/tree/main/Pr%C3%A1cticas): Este directorio contiene cada una de las prácticas realizadas en la asignatura.
+Directorios ['Práctica de Laboratorio'](https://github.com/aleon2020/ADMA_2022-2023/tree/main/Pr%C3%A1ctica%20de%20Laboratorio): Este directorio contiene cada una de las prácticas realizadas en la asignatura.
 
 ## 5. Referencias
 
