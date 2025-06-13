@@ -28,14 +28,10 @@ Directorio ['Diapositivas Teoría'](https://github.com/aleon2020/ADMA_2022-2023/
 
 Directorio ['Ejercicios'](https://github.com/aleon2020/ADMA_2022-2023/tree/main/Ejercicios): Este directorio contiene todos los ejercicios no obligatorios que se han propuesto durante las clases para facilitar la comprensión de los contenidos vistos en teoría.
 
-## 3. Exámenes
-
-Directorio ['Exámenes'](https://github.com/aleon2020/ADMA_2022-2023/tree/main/Ex%C3%A1menes): Dentro de este directorio se encuentran los exámenes de la Convocatoria Ordinaria y de la Convocatoria Extraordinaria del curso 2022-2023.
-
-## 4. Práctica de Laboratorio
+## 3. Práctica de Laboratorio
 
 Directorios ['Práctica de Laboratorio'](https://github.com/aleon2020/ADMA_2022-2023/tree/main/Pr%C3%A1ctica%20de%20Laboratorio): Este directorio contiene cada una de las prácticas realizadas en la asignatura.
 
-## 5. Referencias
+## 4. Referencias
 
 Directorio ['Referencias'](https://github.com/aleon2020/ADMA_2022-2023/tree/main/Referencias): Se encuentra el libro que complementa a los contenidos vistos en las diapositivas de teoría (también se usa como material de estudio), además de una versión extendida de las diapositivas vistas en clase.
